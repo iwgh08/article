@@ -1,0 +1,10 @@
+# 비밀 정보 (API 키, Gmail 앱 비밀번호)
+.env
+
+# 실행 결과물
+logs/
+reports/
+
+# Python
+__pycache__/
+*.pyc
